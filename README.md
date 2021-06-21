@@ -1,5 +1,5 @@
-# Project_4
-GA Group Project 4 - Edward, Derrick, Tresha
+# Project_4: Predicting presence of West Nile Virus in Chicago
+
 
 ### 1) Problem Statement
 
