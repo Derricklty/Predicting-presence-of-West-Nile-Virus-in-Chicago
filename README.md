@@ -1,4 +1,4 @@
-# Project_4: Predicting presence of West Nile Virus in Chicago
+# Project 4: Predicting presence of West Nile Virus in Chicago
 
 
 ### 1) Problem Statement
